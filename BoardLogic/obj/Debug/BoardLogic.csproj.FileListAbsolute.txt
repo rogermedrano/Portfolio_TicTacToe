@@ -1,0 +1,6 @@
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\BoardLogic\obj\Debug\BoardLogic.pdb

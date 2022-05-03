@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Portfolio_TicTacToe/1.0.0": {
+        "dependencies": {
+          "BoardLogic": "1.0.0"
+        },
+        "runtime": {
+          "Portfolio_TicTacToe.dll": {}
+        }
+      },
+      "BoardLogic/1.0.0": {
+        "runtime": {
+          "BoardLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portfolio_TicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoardLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

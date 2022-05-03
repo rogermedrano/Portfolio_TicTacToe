@@ -1,0 +1,13 @@
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\bin\Debug\Portfolio_TicTacGUI.exe.config
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\bin\Debug\Portfolio_TicTacGUI.exe
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\bin\Debug\Portfolio_TicTacGUI.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.Properties.Resources.resources
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.exe
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\bin\Debug\BoardLogic.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\bin\Debug\BoardLogic.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.Form1.resources
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacGUI\obj\Debug\Portfolio_TicTacGUI.csproj.CopyComplete

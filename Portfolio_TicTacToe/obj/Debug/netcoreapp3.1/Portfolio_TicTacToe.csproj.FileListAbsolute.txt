@@ -1,0 +1,17 @@
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.exe
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\Portfolio_TicTacToe.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\BoardLogic.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\bin\Debug\netcoreapp3.1\BoardLogic.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Portfolio_TicTacToe\Portfolio_TicTacToe\obj\Debug\netcoreapp3.1\Portfolio_TicTacToe.csproj.CopyComplete
